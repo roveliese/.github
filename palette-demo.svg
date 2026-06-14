@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1156" height="272" viewBox="0 0 1156 272">
+  <style>text { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', monospace; }</style>
+  <rect x="36" y="36" width="256" height="180" fill="#f8f3f3" rx="10"/>
+  <rect x="36" y="36" width="256" height="28" fill="#eee8e8" rx="10"/>
+  <rect x="36" y="46" width="256" height="18" fill="#eee8e8"/>
+  <circle cx="50" cy="50" r="5" fill="#f87171" opacity="0.85"/>
+  <circle cx="66" cy="50" r="5" fill="#fbbf24" opacity="0.85"/>
+  <circle cx="82" cy="50" r="5" fill="#4ade80" opacity="0.85"/>
+  <text x="164" y="51" fill="#7c7479" font-size="11" text-anchor="middle" dominant-baseline="middle">Light</text>
+  <rect x="178" y="180" width="20" height="20" fill="#a05566" rx="3"/>
+  <rect x="204" y="180" width="20" height="20" fill="#b3003f" rx="3"/>
+  <rect x="230" y="180" width="20" height="20" fill="#6049b3" rx="3"/>
+  <rect x="256" y="180" width="20" height="20" fill="#c85d3a" rx="3"/>
+  <rect x="312" y="36" width="256" height="180" fill="#13131a" rx="10"/>
+  <rect x="312" y="36" width="256" height="28" fill="#0f0f14" rx="10"/>
+  <rect x="312" y="46" width="256" height="18" fill="#0f0f14"/>
+  <circle cx="326" cy="50" r="5" fill="#f87171" opacity="0.85"/>
+  <circle cx="342" cy="50" r="5" fill="#fbbf24" opacity="0.85"/>
+  <circle cx="358" cy="50" r="5" fill="#4ade80" opacity="0.85"/>
+  <text x="440" y="51" fill="#7f849c" font-size="11" text-anchor="middle" dominant-baseline="middle">Dark</text>
+  <rect x="454" y="180" width="20" height="20" fill="#f5e0dc" rx="3"/>
+  <rect x="480" y="180" width="20" height="20" fill="#82d2ce" rx="3"/>
+  <rect x="506" y="180" width="20" height="20" fill="#aaa0fa" rx="3"/>
+  <rect x="532" y="180" width="20" height="20" fill="#efb080" rx="3"/>
+  <rect x="588" y="36" width="256" height="180" fill="#1b1516" rx="10"/>
+  <rect x="588" y="36" width="256" height="28" fill="#171213" rx="10"/>
+  <rect x="588" y="46" width="256" height="18" fill="#171213"/>
+  <circle cx="602" cy="50" r="5" fill="#f87171" opacity="0.85"/>
+  <circle cx="618" cy="50" r="5" fill="#fbbf24" opacity="0.85"/>
+  <circle cx="634" cy="50" r="5" fill="#4ade80" opacity="0.85"/>
+  <text x="716" y="51" fill="#92777a" font-size="11" text-anchor="middle" dominant-baseline="middle">Warm</text>
+  <rect x="730" y="180" width="20" height="20" fill="#e7b49c" rx="3"/>
+  <rect x="756" y="180" width="20" height="20" fill="#78cbc8" rx="3"/>
+  <rect x="782" y="180" width="20" height="20" fill="#b1a0f0" rx="3"/>
+  <rect x="808" y="180" width="20" height="20" fill="#e9a37d" rx="3"/>
+  <rect x="864" y="36" width="256" height="180" fill="#121620" rx="10"/>
+  <rect x="864" y="36" width="256" height="28" fill="#0e1119" rx="10"/>
+  <rect x="864" y="46" width="256" height="18" fill="#0e1119"/>
+  <circle cx="878" cy="50" r="5" fill="#f87171" opacity="0.85"/>
+  <circle cx="894" cy="50" r="5" fill="#fbbf24" opacity="0.85"/>
+  <circle cx="910" cy="50" r="5" fill="#4ade80" opacity="0.85"/>
+  <text x="992" y="51" fill="#7a88a8" font-size="11" text-anchor="middle" dominant-baseline="middle">Storm</text>
+  <rect x="1006" y="180" width="20" height="20" fill="#d4a8c0" rx="3"/>
+  <rect x="1032" y="180" width="20" height="20" fill="#82d2d8" rx="3"/>
+  <rect x="1058" y="180" width="20" height="20" fill="#a2a0f8" rx="3"/>
+  <rect x="1084" y="180" width="20" height="20" fill="#e49870" rx="3"/>
+</svg>
