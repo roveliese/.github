@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/roveliese/vscode/main/images/icon.png" width="100" alt="Logo"/><br/>
+    <img src="https://raw.githubusercontent.com/roveliese/.github/main/assets/icon.png" width="100" alt="Logo"/><br/>
     <br/>
     Roveliese
     <br/>
@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roveliese/.github/main/palette-demo.svg" alt="Roveliese palette"/>
+  <img src="https://raw.githubusercontent.com/roveliese/.github/main/assets/palette-demo.svg" alt="Roveliese palette"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roveliese/vscode/main/images/footer.png" width="600" alt=""/>
+  <img src="https://raw.githubusercontent.com/roveliese/.github/main/assets/footer.png" width="600" alt=""/>
 </p>
