@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/roveliese/.github/main/assets/icon.png" width="100" alt="Roveliese kitsune logo"/><br/>
+  <img src="https://raw.githubusercontent.com/roveliese/.github/main/assets/icon.png" width="100" alt="Roveliese logo"/><br/>
   <br/>
   Roveliese for <a href="https://code.visualstudio.com">VS Code</a>
 </h3>
